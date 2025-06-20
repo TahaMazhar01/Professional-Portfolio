@@ -83,9 +83,9 @@ See the full license in the [LICENSE](./LICENSE) file.
 
 If you'd like to collaborate, hire, or simply connect, feel free to reach out!
 
-* 📧 Email: \[[YourEmail@example.com](mailto:tahamazhar01@gmail.com)]
+* 📧 Email: (mailto:tahamazhar01@gmail.com)
   
-* 🧠 GitHub: [https://github.com/tahamazhar01](https://github.com/tahamazhar01)
+* 🧠 GitHub: (https://github.com/tahamazhar01)
 
 ---
 
