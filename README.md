@@ -1,5 +1,5 @@
 
-## 🧾 `README.md` for [Professional-Portfolio](https://tahamazhar01.github.io/Professional-Portfolio/)
+## 🧾 `README.md` for [Professional-Portfolio](https://github.com/TahaMazhar01/Professional-Portfolio/)
 
 ```markdown
 # 💼 Professional Portfolio – Taha Mazhar
